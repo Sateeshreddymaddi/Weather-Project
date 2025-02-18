@@ -56,6 +56,7 @@ cd Weather-Project
 ## 🎨 Screenshots
 <img width="1440" alt="Screenshot 2025-02-18 at 6 52 34 PM" src="https://github.com/user-attachments/assets/40d664ed-7ac2-4954-bb94-af55db9bd005" />
 
+<img width="1440" alt="Screenshot 2025-02-18 at 7 01 11 PM" src="https://github.com/user-attachments/assets/223c57bc-6ca9-46d1-8031-2ba1c8bd05a0" />
 
 ---
 
